@@ -1,3 +1,5 @@
+The following code is used to show the games radar. This code was created with the help of Sam Hardeman.
+
 void Game::UpdateRadar()
 {
 	for (int i = 0; i < 2; i++)
