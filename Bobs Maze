@@ -1,3 +1,5 @@
+The following class is a mini game in which the player has to swat a number of fly's within a certain amount of time.
+
 CmMiniFlyKill::CmMiniFlyKill()
 {
 	this->m_dead_flies = 0;
