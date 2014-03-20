@@ -1,3 +1,6 @@
+The following code was used to create flowers that will multiply over time and plant new plants in a random point 
+in a circle around them. After a certain amount of time the plant will stop creating new plants.
+
 public class PlantScript : MonoBehaviour
 {
     //Basic attributes
