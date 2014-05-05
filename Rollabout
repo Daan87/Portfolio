@@ -1,3 +1,5 @@
+The following code is used to control one of the enemy's.
+
 using UnityEngine;
 using System.Collections;
 
